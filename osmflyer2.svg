@@ -14,7 +14,7 @@
    height="442.91336"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.1 r9760"
    version="1.0"
    sodipodi:docname="osmflyer2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
@@ -74,8 +74,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.543442"
-     inkscape:cx="403.62041"
-     inkscape:cy="143.91357"
+     inkscape:cx="405.99222"
+     inkscape:cy="92.081366"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="316mm"
@@ -84,10 +84,10 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:guide-points="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1362"
+     inkscape:window-height="724"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
      showgrid="false"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -1225,21 +1225,21 @@
          sodipodi:type="arc" />
     </g>
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/berlin-background-blaugrau.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       width="1409.6063"
-       height="407.48032"
-       id="image3047"
+       y="17.716511"
        x="-183.63786"
-       y="17.716511" />
+       id="image3047"
+       height="407.48032"
+       width="1409.6063" />
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./abzeichnen.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./abzeichnen.png"
        xlink:href="./abzeichnen.png"
-       y="49.628628"
-       x="836.18811"
-       id="image3010"
+       width="233.923"
        height="343.91879"
-       width="233.923" />
+       id="image3010"
+       x="836.18811"
+       y="49.628628" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
@@ -1253,7 +1253,8 @@
          sodipodi:role="line"
          id="tspan3393"
          x="48.7943"
-         y="64.801361">自由な世界地図とはどういう意味ですか？</tspan></text>
+         y="64.801361"
+         style="font-weight:bold;-inkscape-font-specification:IPAGothic Bold">自由な世界地図とはどういう意味ですか？</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -1268,7 +1269,7 @@
          id="tspan3399"
          x="574.01575"
          y="64.801361"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">自由な世界地図とはどういう意味ですか？</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic Bold">OpenStreetMapの仕組み</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3401"
@@ -1340,32 +1341,32 @@
        inkscape:export-xdpi="400.01047"
        inkscape:export-ydpi="400.01047" />
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./gps-screenshot-327.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./gps-screenshot-327.png"
        xlink:href="./gps-screenshot-327.png"
-       y="242.10844"
-       x="56.76968"
-       id="image3002"
+       width="40"
        height="60"
-       width="40" />
+       id="image3002"
+       x="56.76968"
+       y="242.10844" />
     <g
        id="g3236"
        transform="translate(0,-16)">
       <image
-         sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./gps-screenshot-442.png"
+         sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./gps-screenshot-442.png"
          xlink:href="./gps-screenshot-442.png"
-         width="40"
-         height="59.999996"
-         id="image3016"
+         y="242.10844"
          x="56.76968"
-         y="242.10844" />
+         id="image3016"
+         height="59.999996"
+         width="40" />
       <image
-         sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./garmin_62st_empty.png"
+         sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./garmin_62st_empty.png"
          xlink:href="./garmin_62st_empty.png"
-         width="61.353943"
-         height="166.57401"
-         id="image3030"
+         y="187.69391"
          x="46.325783"
-         y="187.69391" />
+         id="image3030"
+         height="166.57401"
+         width="61.353943" />
     </g>
     <g
        id="g3184"
