@@ -847,11 +847,11 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2215964"
-     inkscape:cx="584.03189"
-     inkscape:cy="192.94704"
+     inkscape:zoom="2.4431928"
+     inkscape:cx="619.39346"
+     inkscape:cy="129.19432"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g3825"
      width="316mm"
      height="125mm"
      units="mm"
@@ -983,19 +983,19 @@
     <image
        sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       width="1417.6224"
-       height="407.21207"
-       id="image2738"
+       y="17.716511"
        x="-261.03812"
-       y="17.716511" />
+       id="image2738"
+       height="407.21207"
+       width="1417.6224" />
     <image
        sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/globe_part_halo.png"
        xlink:href="globe_part_halo.png"
-       y="24.243629"
-       x="794.24286"
-       id="image2726"
+       width="327.56903"
        height="396.18701"
-       width="327.56903" />
+       id="image2726"
+       x="794.24286"
+       y="24.243629" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -1295,14 +1295,14 @@
     <image
        sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/osm.png"
        xlink:href="osm.png"
-       y="274.80225"
-       x="832.98285"
-       id="image2836"
-       height="71.127243"
-       width="71.127243"
-       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       inkscape:transform-center-y="0.0650818"
        inkscape:transform-center-x="1.7791254"
-       inkscape:transform-center-y="0.0650818" />
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       width="71.127243"
+       height="71.127243"
+       id="image2836"
+       x="832.98285"
+       y="274.80225" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1382,17 +1382,17 @@
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            y="359.33917"
            x="581.88165"
-           sodipodi:role="line">This flyer has been created by Geofabrik (www.geofabrik.de) </tspan><tspan
+           sodipodi:role="line">Original flyer designed by Geofabrik (www.geofabrik.de), </tspan><tspan
            id="tspan3321"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            y="368.29916"
            x="581.88165"
-           sodipodi:role="line">and funded by Georepublic Japan (www.georepublic.co.jp).</tspan><tspan
+           sodipodi:role="line">flyer print funded by Georepublic (www.georepublic.co.jp).</tspan><tspan
            id="tspan3327"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            y="377.25919"
            x="581.88165"
-           sodipodi:role="line">Japan distribution is handled through </tspan><tspan
+           sodipodi:role="line">Japan distribution handled through </tspan><tspan
            id="tspan3329"
            style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:112.00000048%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            y="386.21918"
