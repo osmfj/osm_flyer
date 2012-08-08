@@ -848,7 +848,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2215964"
-     inkscape:cx="750.36962"
+     inkscape:cx="455.67327"
      inkscape:cy="325.65855"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -983,19 +983,19 @@
     <image
        sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       width="1417.6224"
-       height="407.21207"
-       id="image2738"
+       y="17.716511"
        x="-261.03812"
-       y="17.716511" />
+       id="image2738"
+       height="407.21207"
+       width="1417.6224" />
     <image
        sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/globe_part_halo.png"
        xlink:href="globe_part_halo.png"
-       y="24.243629"
-       x="794.24286"
-       id="image2726"
+       width="327.56903"
        height="396.18701"
-       width="327.56903" />
+       id="image2726"
+       x="794.24286"
+       y="24.243629" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -1009,7 +1009,8 @@
          sodipodi:role="line"
          id="tspan3399"
          x="48.7943"
-         y="64.745361">OpenStreetMapに参加しませんか？</tspan></text>
+         y="64.745361"
+         style="-inkscape-font-specification:IPAGothic;font-family:IPAGothic;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">OpenStreetMapに参加しませんか？</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3401"
@@ -1295,14 +1296,14 @@
     <image
        sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/osm.png"
        xlink:href="osm.png"
-       y="274.80225"
-       x="832.98285"
-       id="image2836"
-       height="71.127243"
-       width="71.127243"
-       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       inkscape:transform-center-y="0.0650818"
        inkscape:transform-center-x="1.7791254"
-       inkscape:transform-center-y="0.0650818" />
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       width="71.127243"
+       height="71.127243"
+       id="image2836"
+       x="832.98285"
+       y="274.80225" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
