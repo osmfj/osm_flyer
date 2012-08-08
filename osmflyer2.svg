@@ -14,7 +14,7 @@
    height="442.91336"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.1 r9760"
    version="1.0"
    sodipodi:docname="osmflyer2.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -77,8 +77,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.543442"
-     inkscape:cx="498.75312"
-     inkscape:cy="168.56395"
+     inkscape:cx="382.77856"
+     inkscape:cy="177.63048"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="316mm"
@@ -87,10 +87,10 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:guide-points="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1362"
+     inkscape:window-height="724"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
      showgrid="false"
      inkscape:window-maximized="1">
     <sodipodi:guide
@@ -206,7 +206,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1229,21 +1229,21 @@
          sodipodi:type="arc" />
     </g>
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/berlin-background-blaugrau.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       width="1409.6063"
-       height="407.48032"
-       id="image3047"
+       y="17.716511"
        x="-183.63786"
-       y="17.716511" />
+       id="image3047"
+       height="407.48032"
+       width="1409.6063" />
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./abzeichnen.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./abzeichnen.png"
        xlink:href="./abzeichnen.png"
-       y="49.628628"
-       x="836.18811"
-       id="image3010"
+       width="233.923"
        height="343.91879"
-       width="233.923" />
+       id="image3010"
+       x="836.18811"
+       y="49.628628" />
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
@@ -1277,7 +1277,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3401"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:FrobisherCondensed"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
        transform="translate(13.830799,-9.369603)"
        inkscape:export-filename="/tmp/2.png"
        inkscape:export-xdpi="400.01047"
@@ -1288,17 +1288,13 @@
            height="102.60724"
            x="35.687172"
            y="88.272079"
-           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
+           style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
          id="flowPara5789"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">インターネットには多くの地図や都市計画図が公開されています。無料の地図も少なくありません。しかしそれらのほとんどは、個人用途の利用だけを許可するライセンスを表明しています。</flowPara><flowPara
-         id="flowPara3322"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">例えば再配布は許可されていません。権利者の許諾が無いまま、勝手に地図を転載して配布することは許されていないのです。さらに地図は内容が古かっ</flowPara><flowPara
-         id="flowPara3312"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">インターネットには多くの地図や都市計画図が公開されています。無料の地図も少なくありません。しかしそれらのほとんどは、個人用途の利用だけを許可するライセンスを表明しています。</flowPara><flowPara
          id="flowPara3304"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">例えばそれらの地図の多くは再配布が許可されていません。権利者の許諾が無いまま、勝手に地図を転載して公開・頒布することは許されていないのです</flowPara><flowPara
          id="flowPara3324"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120%;writing-mode:lr;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /></flowRoot>    <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3714"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed"
@@ -1316,23 +1312,31 @@
          id="flowPara3394"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">OpenStreetMapで使われている地図情報は、様々な方法で集められます。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3456">GPS機器や手描きのノートは初期から使われている万能選手です。&quot;GPSトラック&quot;は、私たちの用語でいう&quot;マッパー&quot;、すなわち現地調査者が歩いた軌跡を記録します。</flowPara><flowPara
+         id="flowPara3456">GPS機器や手描きのノートは初期から使われている万能選手です。<flowSpan
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Hiragino Kaku Gothic Pro;-inkscape-font-specification:Hiragino Kaku Gothic Pro Semi-Bold;line-height:8%"
+   id="flowSpan3703">GPSトラック</flowSpan>は、私たちの用語でいう&quot;マッパー&quot;、すなわち現地調査者が歩いた軌跡を記録します。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3458">最近では、高画質の *航空写真*もよく使われるようになりました。</flowPara><flowPara
+         id="flowPara3458">最近では、高画質の<flowSpan
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Hiragino Kaku Gothic Pro;-inkscape-font-specification:Hiragino Kaku Gothic Pro Semi-Bold;line-height:8%"
+   id="flowSpan3725">航空写真</flowSpan>もよく使われるようになりました。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3466">OSM専用に作られた *編集ソフト*は、航空写真とGPSトラック、そしてOSMデータベースに保存されている情報のをすべて同時に表示することができます。</flowPara><flowPara
+         id="flowPara3466">OSM専用に作られた<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Hiragino Kaku Gothic Pro;-inkscape-font-specification:Hiragino Kaku Gothic Pro Semi-Bold;line-height:8%"
+   id="flowSpan3735">編集ソフト</flowSpan>は、航空写真とGPSトラック、そしてOSMデータベースに保存されている情報のをすべて同時に表示することができます。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3468">道路の位置、建物の輪郭、森林や湖沼の形状などは *航空写真* を下絵にして書くことができます。</flowPara><flowPara
+         id="flowPara3468">道路の位置、建物の輪郭、森林や湖沼の形状などは <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Hiragino Kaku Gothic Pro;-inkscape-font-specification:Hiragino Kaku Gothic Pro Semi-Bold;line-height:8%"
+   id="flowSpan3739">航空写真</flowSpan>を下絵にして描き上げられます。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3472">ただし、建物の住所、街路の名前、店舗の名称や連絡先といった&quot;地物&quot;の情報は、航空写真から読み取ることはできません。</flowPara><flowPara
+         id="flowPara3472">しかしながら、建物の住所、街路の名前、店舗の名称や連絡先といった&quot;地物&quot;の情報は、航空写真から読み取ることはできません。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
          id="flowPara3474">マッパーは、自分がよく知っている地域であれば記憶をもとに地図を描きます。全く知らない地域であれば、その場所へ足を運び、調査・測量を行うこともしばしばです。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3478">私たちが集めた情報は最終的にプロジェクトの中央データベースに保存され、その情報を元に *地図*が描き上げられます。</flowPara><flowPara
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-         id="flowPara3480">新しく追加された事柄は、全世界のすべての人に即座に公開されます。</flowPara><flowPara
+         id="flowPara3478">私たちが集めた情報は最終的にプロジェクトの中央データベースに保存され、その情報を元に<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Hiragino Kaku Gothic Pro;-inkscape-font-specification:Hiragino Kaku Gothic Pro Semi-Bold;line-height:8%"
+   id="flowSpan3743">地図</flowSpan>が描き上げられます。</flowPara><flowPara
          id="flowPara3396"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">新しく追加された事柄は即座に、全世界のすべての人に対して公開されます。</flowPara><flowPara
          id="flowPara3398"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /></flowRoot>    <rect
        style="fill:none;stroke:#40406d;stroke-width:1.0629921;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -1345,32 +1349,32 @@
        inkscape:export-xdpi="400.01047"
        inkscape:export-ydpi="400.01047" />
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./gps-screenshot-327.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./gps-screenshot-327.png"
        xlink:href="./gps-screenshot-327.png"
-       y="242.10844"
-       x="56.76968"
-       id="image3002"
+       width="40"
        height="60"
-       width="40" />
+       id="image3002"
+       x="56.76968"
+       y="242.10844" />
     <g
        id="g3236"
        transform="translate(0,-16)">
       <image
-         sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./gps-screenshot-442.png"
+         sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./gps-screenshot-442.png"
          xlink:href="./gps-screenshot-442.png"
-         width="40"
-         height="59.999996"
-         id="image3016"
+         y="242.10844"
          x="56.76968"
-         y="242.10844" />
+         id="image3016"
+         height="59.999996"
+         width="40" />
       <image
-         sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/./garmin_62st_empty.png"
+         sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/./garmin_62st_empty.png"
          xlink:href="./garmin_62st_empty.png"
-         width="61.353943"
-         height="166.57401"
-         id="image3030"
+         y="187.69391"
          x="46.325783"
-         y="187.69391" />
+         id="image3030"
+         height="166.57401"
+         width="61.353943" />
     </g>
     <g
        id="g3184"
@@ -1808,16 +1812,8 @@
            x="35.687172"
            y="88.272079"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
-         id="flowPara3308-0"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">たり、情報が足りなかったりすることがあります。記載されている内容を修正するには多くの時間を必要とします。</flowPara><flowPara
-         id="flowPara3322-1"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
-         id="flowPara3312-8"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
-         id="flowPara3304-7"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
          id="flowPara3324-8"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /></flowRoot>    <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">さらに、地図に掲載されている内容は、古かったり、情報が足りなかったりすることがあります。記載されている内容の修正に</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3401-1-6"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:FrobisherCondensed"
@@ -1827,45 +1823,57 @@
        inkscape:export-ydpi="400.01047"><flowRegion
          id="flowRegion3403-1-1"><rect
            id="rect3405-3-8"
-           width="164.52516"
-           height="166.74956"
+           width="169.06049"
+           height="160.27052"
            x="35.687172"
            y="88.272079"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
          id="flowPara3310-3-7"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
-         id="flowPara3322-1-2"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">ここで大切なことは、あなたは地図の画像を入手したということだけではなく、地図に含まれている情報を得た、ということです。あなたが自分で地図を書くとき、あるいは行き先案内のために電子機器を使うとき、あなたは地図のなかから情報を読み取っているのです。私たち、OpenStreetMapに携わるひとは、自分たち自身で事実情報を集めます。活動は全世界中、時にはチームで、時にはひとりで行われています。</flowPara><flowPara
-         id="flowPara3312-8-7"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
-         id="flowPara3304-7-5"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
          id="flowPara3324-8-6"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /></flowRoot>    <flowRoot
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">は、たいてい多くの時間を必要とします。もうひとつ大切なのは、あなたが地図を手に取る時には、その画像を入手するということだけではなく、地図で表される情報を得ているということです。あなたが自分で地図を書くとき、あるいは行き先案内のために電子機器を使うとき、あなたは地図のなかから情報を読み取っているのです。私たちOpenStreetMapに携わるひとは、自分たち自身で事実情報を集めます。活動は全世界中</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3401-1-6-6"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;display:inline;font-family:FrobisherCondensed"
-       transform="translate(13.982166,243.52557)"
+       transform="translate(13.982166,255.52557)"
        inkscape:export-filename="/tmp/2.png"
        inkscape:export-xdpi="400.01047"
        inkscape:export-ydpi="400.01047"><flowRegion
          id="flowRegion3403-1-1-2"><rect
            id="rect3405-3-8-4"
-           width="231.90703"
+           width="235.79445"
            height="81.22641"
            x="35.687172"
            y="88.272079"
            style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:FrobisherCondensed" /></flowRegion><flowPara
-         id="flowPara3318-0-5-5"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
-         id="flowPara3322-1-2-7"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">私たちが集めた情報、そして私たちが作り上げたソフトウェアをもとに、私たちは特定の企業に与しない地図を描き出します。Wikipediaと同じように、地図には誰でも手を加えることが可能です。</flowPara><flowPara
-         id="flowPara3312-8-7-1"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
-         id="flowPara3304-7-5-8"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /><flowPara
          id="flowPara3324-8-6-3"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic" /></flowRoot>  </g>
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">時にはチームで、時にはひとりで行われています。</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
+         id="flowPara3665">私たちが集めた情報と、私たちが作り上げたソフトウェアをもとにして、私たちは特定の企業に与しない地図を描き出します。Wikipediaと同じように、私たちの地図には誰でも手を加えることが可能です。</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="279.61243"
+       y="162.00513"
+       id="text3619"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3621"
+         x="279.61243"
+         y="162.00513"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">。</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="280.20404"
+       y="341.30524"
+       id="text3671"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3673"
+         x="280.20404"
+         y="341.30524"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">、</tspan></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"

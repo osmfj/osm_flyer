@@ -14,7 +14,7 @@
    height="442.91336"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.1 r9760"
    version="1.0"
    sodipodi:docname="osmflyer1.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -847,21 +847,21 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.4431928"
-     inkscape:cx="619.39346"
-     inkscape:cy="129.19432"
+     inkscape:zoom="1.2215964"
+     inkscape:cx="750.36962"
+     inkscape:cy="325.65855"
      inkscape:document-units="px"
-     inkscape:current-layer="g3825"
+     inkscape:current-layer="layer1"
      width="316mm"
      height="125mm"
      units="mm"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:guide-points="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1056"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-width="1362"
+     inkscape:window-height="724"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
      inkscape:object-points="false"
      inkscape:object-paths="false"
      inkscape:grid-bbox="false"
@@ -981,21 +981,21 @@
      id="layer1"
      style="display:inline">
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/berlin-background-blaugrau.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/berlin-background-blaugrau.png"
        xlink:href="berlin-background-blaugrau.png"
-       y="17.716511"
-       x="-261.03812"
-       id="image2738"
+       width="1417.6224"
        height="407.21207"
-       width="1417.6224" />
+       id="image2738"
+       x="-261.03812"
+       y="17.716511" />
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/globe_part_halo.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/globe_part_halo.png"
        xlink:href="globe_part_halo.png"
-       width="327.56903"
-       height="396.18701"
-       id="image2726"
+       y="24.243629"
        x="794.24286"
-       y="24.243629" />
+       id="image2726"
+       height="396.18701"
+       width="327.56903" />
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FrobisherCondExtrabold"
@@ -1028,9 +1028,9 @@
          id="flowPara2572"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">私たちのプロジェクトのWebページは www.openstreetmap.orgです。</flowPara><flowPara
          id="flowPara3301"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">Webページでは私たちの地図を公開しています。また、プロジェクトに関する膨大な情報は Wikiにまとめられています。</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">私たちのWebページでは、私たちの描いた地図が公開されています。また、プロジェクトに関する膨大な情報は Wikiにまとめられています。</flowPara><flowPara
          id="flowPara3303"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">日本語での紹介記事やフォーラム、メーリングリスト情報は www.osm.jp でまとめています。</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic">日本語における紹介記事やフォーラム、メーリングリスト情報は www.osm.jp にまとめられています。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
          id="flowPara3521">マッピングに興味を持たれた方は、いくつかの地域で不定期に開催されているマッピングパーティや勉強会に参加していただくこともできます。いずれもウェブサイトやメーリングリストから情報を入手することが可能です。</flowPara><flowPara
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
@@ -1293,16 +1293,16 @@
        x="574.01575"
        y="328.65796" />
     <image
-       sodipodi:absref="/home/daniel/Repository/GitHub/osmfj/osm_flyer/osm.png"
+       sodipodi:absref="/Users/hal/Documents/workspace/osm/osm_flyer/osm.png"
        xlink:href="osm.png"
-       inkscape:transform-center-y="0.0650818"
-       inkscape:transform-center-x="1.7791254"
-       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
-       width="71.127243"
-       height="71.127243"
-       id="image2836"
+       y="274.80225"
        x="832.98285"
-       y="274.80225" />
+       id="image2836"
+       height="71.127243"
+       width="71.127243"
+       transform="matrix(0.9683732,-0.2495063,0.2495063,0.9683732,0,0)"
+       inkscape:transform-center-x="1.7791254"
+       inkscape:transform-center-y="0.0650818" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1334,8 +1334,8 @@
              height="51.015202"
              width="130.3094"
              id="rect3850-3" /></flowRegion><flowPara
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477000000387%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
-           id="flowPara3310-3">OSMのデータを利用した場合は、必ずこのライセンスを受け継がなくてはいけません。</flowPara></flowRoot>    </a>
+           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:120.00000477%;writing-mode:lr-tb;text-anchor:start;font-family:IPAGothic;-inkscape-font-specification:IPAGothic"
+           id="flowPara3310-3">OpenStreetMapのデータを利用する場合は、必ずこのライセンスを受け継ぐ必要があります。</flowPara></flowRoot>    </a>
     <image
        y="226.38379"
        x="47.676003"
